@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto foi desenvolvido uma plataforma para realizar inscrição e fazer o check-in.
 
-## 💻 Github Pages
+## 💻 Deploy
 [🔗 Clique aqui para acessar]()
 
 ## **🤍 Contato**
